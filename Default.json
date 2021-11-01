@@ -16,7 +16,6 @@
     },
     {
       "type": "gradient",
-      "arrow": "ffffff",
       "stops": [
         { "percentage": 0, "color": "53cddb" },
         { "percentage": 100, "color": "0669ff" }
