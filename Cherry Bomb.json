@@ -34,7 +34,7 @@
         { "percentage": 81, "color": "EA2164" },
         { "percentage": 90, "color": "EA2164" }
       ],
-      "outline": {
+      "circle": {
         "type": "color",
         "color": "000000"
       }
@@ -61,7 +61,7 @@
         { "percentage": 81, "color": "EA2164" },
         { "percentage": 90, "color": "EA2164" }
       ],
-      "outline": {
+      "circle": {
         "type": "color",
         "color": "000000"
       }
