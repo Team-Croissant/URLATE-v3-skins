@@ -6,7 +6,7 @@
       { "percentage": 100, "color": "ff0055" }
     ],
     "outline": {
-      "width": 5,
+      "width": 4,
       "type": "color",
       "color": "000000"
     }
@@ -32,8 +32,15 @@
         { "percentage": 71, "color": "000000" },
         { "percentage": 80, "color": "000000" },
         { "percentage": 81, "color": "EA2164" },
-        { "percentage": 90, "color": "EA2164" }
+        { "percentage": 90, "color": "EA2164" },
+        { "percentage": 91, "color": "000000" },
+        { "percentage": 100, "color": "000000" }
       ],
+      "outline": {
+        "width": 3,
+        "type": "color",
+        "color": "000000"
+      },
       "circle": {
         "type": "color",
         "color": "000000"
@@ -61,6 +68,11 @@
         { "percentage": 81, "color": "EA2164" },
         { "percentage": 90, "color": "EA2164" }
       ],
+      "outline": {
+        "width": 3,
+        "type": "color",
+        "color": "000000"
+      },
       "circle": {
         "type": "color",
         "color": "000000"
