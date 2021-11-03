@@ -1,0 +1,56 @@
+{
+  "cursor": {
+    "type": "gradient",
+    "stops": [
+      { "percentage": 0, "color": "ee4579" },
+      { "percentage": 100, "color": "b575db" }
+    ]
+  },
+  "note": [
+    {
+      "type": "gradient",
+      "stops": [
+        { "percentage": 0, "color": "f03c78" },
+        { "percentage": 100, "color": "e29587" }
+      ],
+      "circle": {
+        "type": "color",
+        "color": "b73665"
+      }
+    },
+    {
+      "type": "gradient",
+      "stops": [
+        { "percentage": 0, "color": "f03c78" },
+        { "percentage": 100, "color": "e29587" }
+      ],
+      "circle": {
+        "type": "color",
+        "color": "b73665"
+      }
+    }
+  ],
+  "bullet": {
+    "type": "gradient",
+    "stops": [
+      { "percentage": 0, "color": "f4e2d8" },
+      { "percentage": 100, "color": "f5bde4" }
+    ],
+    "outline": {
+      "width": 3,
+      "type": "color",
+      "color": "b73665"
+    }
+  },
+  "perfect": {
+    "type": "gradient",
+    "stops": [
+      { "percentage": 0, "color": "57d147" },
+      { "percentage": 100, "color": "43a7e0" }
+    ]
+  },
+  "great": { "type": "color", "color": "57d147" },
+  "good": { "type": "color", "color": "43a7e0" },
+  "bad": { "type": "color", "color": "b0675a" },
+  "miss": { "type": "color", "color": "e84c38" }
+}
