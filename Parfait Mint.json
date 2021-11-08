@@ -1,0 +1,66 @@
+{
+  "cursor": {
+    "type": "gradient",
+    "stops": [
+      { "percentage": 0, "color": "1BDCC2" },
+      { "percentage": 100, "color": "4D77FF" }
+    ]
+  },
+  "note": [
+    {
+      "type": "color",
+      "color": "ffffff",
+      "outline": {
+        "width": 3,
+        "type": "color",
+        "color": "4EBBD1"
+      },
+      "circle": {
+        "type": "gradient",
+        "stops": [
+          { "percentage": 0, "color": "32BCC6" },
+          { "percentage": 100, "color": "2FB18A" }
+        ]
+      }
+    },
+    {
+      "type": "color",
+      "color": "ffffff",
+      "outline": {
+        "width": 3,
+        "type": "color",
+        "color": "4EBBD1"
+      },
+      "circle": {
+        "type": "gradient",
+        "stops": [
+          { "percentage": 0, "color": "32BCC6" },
+          { "percentage": 100, "color": "2FB18A" }
+        ]
+      }
+    }
+  ],
+  "bullet": {
+    "type": "gradient",
+    "stops": [
+      { "percentage": 0, "color": "D3E2F2" },
+      { "percentage": 100, "color": "C0F1EB" }
+    ],
+    "outline": {
+      "width": 3,
+      "type": "color",
+      "color": "36A2B7"
+    }
+  },
+  "perfect": {
+    "type": "gradient",
+    "stops": [
+      { "percentage": 0, "color": "CD63EC" },
+      { "percentage": 100, "color": "5757FE" }
+    ]
+  },
+  "great": { "type": "color", "color": "357EEF" },
+  "good": { "type": "color", "color": "1AC093" },
+  "bad": { "type": "color", "color": "6C4614" },
+  "miss": { "type": "color", "color": "E73F3F" }
+}
