@@ -55,12 +55,12 @@
   "perfect": {
     "type": "gradient",
     "stops": [
-      { "percentage": 0, "color": "CD63EC" },
-      { "percentage": 100, "color": "5757FE" }
+      { "percentage": 0, "color": "459FED" },
+      { "percentage": 100, "color": "B941EE" }
     ]
   },
-  "great": { "type": "color", "color": "357EEF" },
-  "good": { "type": "color", "color": "1AC093" },
-  "bad": { "type": "color", "color": "6C4614" },
+  "great": { "type": "color", "color": "5DBCC6" },
+  "good": { "type": "color", "color": "5485C6" },
+  "bad": { "type": "color", "color": "B2809E" },
   "miss": { "type": "color", "color": "E73F3F" }
 }
